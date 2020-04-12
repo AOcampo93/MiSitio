@@ -1,0 +1,135 @@
+{
+    "Habilidades": [{
+            "Categoria": "Desarrollo FrontEnd",
+            "Skills": [{
+                    "Nombre": "HTML5",
+                    "Porcentaje": "90"
+                },
+                {
+                    "Nombre": "CSS3",
+                    "Porcentaje": "90"
+                },
+                {
+                    "Nombre": "SASS",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "PHP",
+                    "Porcentaje": "60"
+                },
+                {
+                    "Nombre": "Bootstrap 4",
+                    "Porcentaje": "90"
+                },
+                {
+                    "Nombre": "Google Materialize",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "GitHub",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "Angular",
+                    "Porcentaje": "70"
+                },
+                {
+                    "Nombre": "IONIC | App Hibridas",
+                    "Porcentaje": "70"
+                },
+                {
+                    "Nombre": "Web Progresive Apps (PWA)",
+                    "Porcentaje": "70"
+                }
+            ]
+        },
+        {
+            "Categoria": "Diseño",
+            "Skills": [{
+                    "Nombre": "Photoshop",
+                    "Porcentaje": "90"
+                },
+                {
+                    "Nombre": "Illustrator",
+                    "Porcentaje": "90"
+                },
+                {
+                    "Nombre": "InDesign",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "Adobe Premiere Pro",
+                    "Porcentaje": "70"
+                },
+                {
+                    "Nombre": "After Effects",
+                    "Porcentaje": "70"
+                },
+                {
+                    "Nombre": "Ilustración Digital",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "Animación 2D",
+                    "Porcentaje": "70"
+                },
+                {
+                    "Nombre": "Modelado 3D | Blender",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "Fotografía",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "Video",
+                    "Porcentaje": "70"
+                }
+            ]
+        },
+        {
+            "Categoria": "Diseño Web",
+            "Skills": [{
+                    "Nombre": "Adobe XD | Prototipado",
+                    "Porcentaje": "90"
+                },
+                {
+                    "Nombre": "Conocimiento en UX & UI",
+                    "Porcentaje": "85"
+                },
+                {
+                    "Nombre": "Paginas web responsives",
+                    "Porcentaje": "90"
+                },
+                {
+                    "Nombre": "Email Marketing",
+                    "Porcentaje": "85"
+                }
+            ]
+        },
+        {
+            "Categoria": "Otras Habilidades",
+            "Skills": [{
+                    "Nombre": "Ingles",
+                    "Porcentaje": "70"
+                },
+                {
+                    "Nombre": "Office 365",
+                    "Porcentaje": "90"
+                },
+                {
+                    "Nombre": "Modelado para impresión 3D",
+                    "Porcentaje": "80"
+                },
+                {
+                    "Nombre": "Matte Painting",
+                    "Porcentaje": "70"
+                }
+            ]
+        }
+    ]
+}
