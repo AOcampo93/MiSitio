@@ -1,15 +1,15 @@
  [{
-         "Tipo": "Educacion",
-         "Titulo": "Certificado en desarrollo FrontEnd ",
-         "Tiempo": "Brigham Young University - 2020",
-         "Descripcion": "Obtuve mi primer certificado como parte de mi educación en la universidad de Brigham Young en desarrollo FrontEnd."
-     },
-     {
          "Tipo": "Experiencia",
          "Titulo": "Grupo Tv Promo",
          "Puesto": "Desarrollador FrontEnd & Diseñador Web",
          "Tiempo": "Agosto 2019 - Actualmente",
          "Descripcion": "TVP es una agencia de medios bastante grande y diversa.  Ingrese al departamento de Marketing digital como diseñador web, mi trabajo consiste en crear sitios web y aplicaciones móviles en diferentes plataformas como Bootstrap, Angular, IONIC y Unity, diseñadas a la medida de nuestros clientes como FedEx, Bayer, La Costeña, etc."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Certificado en desarrollo FrontEnd ",
+         "Tiempo": "Brigham Young University - 2020",
+         "Descripcion": "Obtuve mi primer certificado como parte de mi educación en la universidad de Brigham Young en desarrollo FrontEnd."
      },
      {
          "Tipo": "Experiencia",
