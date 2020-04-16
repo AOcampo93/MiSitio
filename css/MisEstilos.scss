@@ -465,7 +465,7 @@ header {
             //Linea de tiempo en medio
             .linea {
                 width: 10px;
-                height: 1000px;
+                height: 3000px;
                 background-color: #DFEAF5;
             }
             .cont-exp-edu {
@@ -474,7 +474,6 @@ header {
                 .cont {
                     width: 100%;
                     display: flex;
-                    margin: 0%;
                 }
             }
         }
@@ -483,10 +482,12 @@ header {
 
 .TextLeft {
     text-align: left;
+    margin-left: 5%;
 }
 
 .TextRight {
     text-align: right;
+    margin-right: 5%;
 }
 
 .flex-end {
@@ -498,12 +499,13 @@ header {
 }
 
 .caja-texto {
-    width: 52%;
+    width: 53%;
     margin-bottom: 50px;
     display: flex;
 }
 
 .info {
+    width: 50%;
     p {
         margin: 0%;
     }
@@ -522,6 +524,12 @@ header {
     .caja-texto {
         width: 51.5%;
     }
+    .info {
+        width: 60%;
+    }
+    .linea {
+        height: 3000px !important;
+    }
 }
 
 @media screen and (min-width: 1440px) and (max-width: 1500px) {
@@ -530,6 +538,12 @@ header {
     }
     .caja-texto {
         width: 51.8%;
+    }
+    .info {
+        width: 60%;
+    }
+    .linea {
+        height: 3000px !important;
     }
 }
 
@@ -540,6 +554,12 @@ header {
     .caja-texto {
         width: 52%;
     }
+    .info {
+        width: 70%;
+    }
+    .linea {
+        height: 3300px !important;
+    }
 }
 
 @media screen and (min-width: 931px) and (max-width: 1025px) {
@@ -548,6 +568,12 @@ header {
     }
     .caja-texto {
         width: 53.5%;
+    }
+    .info {
+        width: 80%;
+    }
+    .linea {
+        height: 3300px !important;
     }
 }
 
@@ -558,23 +584,50 @@ header {
     .caja-texto {
         width: 53%;
     }
+    .info {
+        width: 80%;
+    }
+    .linea {
+        height: 3700px !important;
+    }
 }
 
 @media screen and (min-width: 701px) and (max-width: 769px) {
+    .info {
+        width: 80%;
+    }
     .vacio {
         width: 46.5%;
     }
     .caja-texto {
         width: 53.1%;
     }
+    .cont-exp-edu {
+        width: 90% !important;
+    }
+    .info {
+        width: 80%;
+    }
+    .linea {
+        height: 4000px !important;
+    }
 }
 
 @media screen and (min-width: 601px) and (max-width: 700px) {
+    .info {
+        width: 80%;
+    }
     .vacio {
         width: 46%;
     }
     .caja-texto {
         width: 54%;
+    }
+    .cont-exp-edu {
+        width: 90% !important;
+    }
+    .linea {
+        height: 4600px !important;
     }
 }
 
@@ -592,22 +645,32 @@ header {
     }
     .circuloEdu {
         margin-left: 0px !important;
-        margin-right: 5%;
     }
     .flex-end {
         flex-direction: row-reverse;
     }
     .TextRight {
         text-align: left;
+        margin-left: 5%;
+    }
+    .TextLeft {
+        margin-right: 5%;
     }
     .lineaMobile {
         justify-content: flex-start;
     }
     .linea {
         margin-left: 10px;
+        height: 4500px !important;
     }
     .cont-exp-edu {
-        width: 70% !important;
+        width: 90% !important;
+    }
+    .info {
+        width: 100%;
+    }
+    .cont {
+        width: 100%;
     }
 }
 
@@ -618,7 +681,6 @@ header {
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #60AFFF;
-    margin-right: 5%;
 }
 
 .circuloEdu {
@@ -628,5 +690,8 @@ header {
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #93F4FC;
-    margin-left: 5%;
+}
+
+.contenedorCirculo {
+    width: 50px !important;
 }

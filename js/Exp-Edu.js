@@ -11,7 +11,7 @@ fetch(requestURL)
         for (var i = 0; i < myobj.length; i++) {
 
             var tipo = myobj[i].Tipo;
-            if (tipo == Experiencia) {
+            if (tipo == "Experiencia") {
 
                 var DivCont = document.createElement('div');
                 var DivVacio = document.createElement('div');
@@ -29,13 +29,13 @@ fetch(requestURL)
                 DivCirculoExp.classList.add("circuloExp");
                 DivInfo.classList.add("info");
                 DivInfo.classList.add("TextLeft");
-                TituloExp = myobj[i].Titulo;
+                TituloExp.textContent = myobj[i].Titulo;
                 Puesto.classList.add("puesto");
-                Puesto = myobj[i].Puesto;
+                Puesto.textContent = myobj[i].Puesto;
                 Tiempo.classList.add("tiempo");
-                Tiempo = myobj[i].Tiempo;
+                Tiempo.textContent = myobj[i].Tiempo;
                 Descripcion.classList.add("Descripcion");
-                Descripcion = myobj[i].Descripcion;
+                Descripcion.textContent = myobj[i].Descripcion;
 
                 DivCont.appendChild(DivVacio);
                 DivCont.appendChild(DivCajaTexto);
@@ -48,6 +48,7 @@ fetch(requestURL)
 
                 var contenedor = document.getElementById('cont-exp-edu');
                 contenedor.appendChild(DivCont);
+
 
             } else {
 
@@ -68,14 +69,13 @@ fetch(requestURL)
                 DivCirculoEdu.classList.add("circuloEdu");
                 DivInfoEdu.classList.add("info");
                 DivInfoEdu.classList.add("TextRight");
-                TituloEdu = myobj[i].Titulo;
+                TituloEdu.textContent = myobj[i].Titulo;
                 PuestoEdu.classList.add("puesto");
-                PuestoEdu = myobj[i].Puesto;
+                PuestoEdu.textContent = myobj[i].Puesto;
                 TiempoEdu.classList.add("tiempo");
-                TiempoEdu = myobj[i].Tiempo;
+                TiempoEdu.textContent = myobj[i].Tiempo;
                 DescripcionEdu.classList.add("Descripcion");
-                DescripcionEdu = myobj[i].Descripcion;
-
+                DescripcionEdu.textContent = myobj[i].Descripcion;
 
                 DivContEdu.appendChild(DivCajaTextoEdu);
                 DivContEdu.appendChild(DivVacioEdu);
@@ -90,7 +90,5 @@ fetch(requestURL)
                 contenedorEdu.appendChild(DivContEdu);
             }
         }
-
-
 
     });

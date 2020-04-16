@@ -347,21 +347,22 @@ header {
     text-align: center; }
     #Experiencia .container .row .linea {
       width: 10px;
-      height: 1000px;
+      height: 3000px;
       background-color: #DFEAF5; }
     #Experiencia .container .row .cont-exp-edu {
       position: absolute;
       width: 100%; }
       #Experiencia .container .row .cont-exp-edu .cont {
         width: 100%;
-        display: flex;
-        margin: 0%; }
+        display: flex; }
 
 .TextLeft {
-  text-align: left; }
+  text-align: left;
+  margin-left: 5%; }
 
 .TextRight {
-  text-align: right; }
+  text-align: right;
+  margin-right: 5%; }
 
 .flex-end {
   justify-content: flex-end; }
@@ -370,59 +371,112 @@ header {
   width: 48%; }
 
 .caja-texto {
-  width: 52%;
+  width: 53%;
   margin-bottom: 50px;
   display: flex; }
 
-.info p {
-  margin: 0%; }
-.info .tiempo {
-  font-style: italic; }
-.info .Descripcion {
-  font-size: 10pt; }
+.info {
+  width: 50%; }
+  .info p {
+    margin: 0%; }
+  .info .tiempo {
+    font-style: italic; }
+  .info .Descripcion {
+    font-size: 10pt; }
 
 @media screen and (min-width: 1501px) and (max-width: 2000px) {
   .vacio {
     width: 48.5%; }
 
   .caja-texto {
-    width: 51.5%; } }
+    width: 51.5%; }
+
+  .info {
+    width: 60%; }
+
+  .linea {
+    height: 3000px !important; } }
 @media screen and (min-width: 1440px) and (max-width: 1500px) {
   .vacio {
     width: 48.5%; }
 
   .caja-texto {
-    width: 51.8%; } }
+    width: 51.8%; }
+
+  .info {
+    width: 60%; }
+
+  .linea {
+    height: 3000px !important; } }
 @media screen and (min-width: 1026px) and (max-width: 1439px) {
   .vacio {
     width: 48%; }
 
   .caja-texto {
-    width: 52%; } }
+    width: 52%; }
+
+  .info {
+    width: 70%; }
+
+  .linea {
+    height: 3300px !important; } }
 @media screen and (min-width: 931px) and (max-width: 1025px) {
   .vacio {
     width: 48.5%; }
 
   .caja-texto {
-    width: 53.5%; } }
+    width: 53.5%; }
+
+  .info {
+    width: 80%; }
+
+  .linea {
+    height: 3300px !important; } }
 @media screen and (min-width: 770px) and (max-width: 930px) {
   .vacio {
     width: 47%; }
 
   .caja-texto {
-    width: 53%; } }
+    width: 53%; }
+
+  .info {
+    width: 80%; }
+
+  .linea {
+    height: 3700px !important; } }
 @media screen and (min-width: 701px) and (max-width: 769px) {
+  .info {
+    width: 80%; }
+
   .vacio {
     width: 46.5%; }
 
   .caja-texto {
-    width: 53.1%; } }
+    width: 53.1%; }
+
+  .cont-exp-edu {
+    width: 90% !important; }
+
+  .info {
+    width: 80%; }
+
+  .linea {
+    height: 4000px !important; } }
 @media screen and (min-width: 601px) and (max-width: 700px) {
+  .info {
+    width: 80%; }
+
   .vacio {
     width: 46%; }
 
   .caja-texto {
-    width: 54%; } }
+    width: 54%; }
+
+  .cont-exp-edu {
+    width: 90% !important; }
+
+  .linea {
+    height: 4600px !important; } }
 @media only screen and (max-width: 600px) {
   .circuloExp,
   .circuloEdu {
@@ -436,31 +490,40 @@ header {
     width: 100%; }
 
   .circuloEdu {
-    margin-left: 0px !important;
-    margin-right: 5%; }
+    margin-left: 0px !important; }
 
   .flex-end {
     flex-direction: row-reverse; }
 
   .TextRight {
-    text-align: left; }
+    text-align: left;
+    margin-left: 5%; }
+
+  .TextLeft {
+    margin-right: 5%; }
 
   .lineaMobile {
     justify-content: flex-start; }
 
   .linea {
-    margin-left: 10px; }
+    margin-left: 10px;
+    height: 4500px !important; }
 
   .cont-exp-edu {
-    width: 70% !important; } }
+    width: 90% !important; }
+
+  .info {
+    width: 100%; }
+
+  .cont {
+    width: 100%; } }
 .circuloExp {
   width: 50px;
   height: 50px;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background: #60AFFF;
-  margin-right: 5%; }
+  background: #60AFFF; }
 
 .circuloEdu {
   width: 50px;
@@ -468,5 +531,7 @@ header {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
-  background: #93F4FC;
-  margin-left: 5%; }
+  background: #93F4FC; }
+
+.contenedorCirculo {
+  width: 50px !important; }
