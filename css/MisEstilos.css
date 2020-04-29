@@ -1,3 +1,69 @@
+.sectionslide {
+  padding-top: 80px; }
+
+.img-maxwidth {
+  width: 100%; }
+
+.Contenedor-texto-portafolio {
+  position: relative;
+  top: -200px;
+  text-align: center;
+  color: white !important; }
+  .Contenedor-texto-portafolio h1 {
+    font-size: 42pt; }
+
+.widthflechas {
+  width: 50% !important;
+  opacity: 1 !important; }
+
+.cont-cajas {
+  width: 100%;
+  display: flex;
+  justify-content: center; }
+  .cont-cajas div {
+    width: 1100px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap; }
+    .cont-cajas div .CajaPortafolio {
+      width: 250px;
+      border: 1px solid #393939;
+      padding: 0%;
+      margin: 1%;
+      -webkit-box-shadow: 10px 10px 10px -4px rgba(0, 0, 0, 0.25);
+      -moz-box-shadow: 10px 10px 10px -4px rgba(0, 0, 0, 0.25);
+      box-shadow: 10px 10px 10px -4px rgba(0, 0, 0, 0.25); }
+      .cont-cajas div .CajaPortafolio .cont-text-port {
+        text-align: center;
+        display: grid;
+        grid-template-columns: 20px auto 20px;
+        grid-template-rows: 70px 80px 60px 20px; }
+        .cont-cajas div .CajaPortafolio .cont-text-port h3 {
+          font-size: 14pt;
+          margin-top: 15px;
+          grid-column-start: 2;
+          grid-column-end: 3;
+          grid-row-start: 1;
+          grid-row-end: 2; }
+        .cont-cajas div .CajaPortafolio .cont-text-port p {
+          overflow: auto;
+          grid-column-start: 2;
+          grid-column-end: 3;
+          grid-row-start: 2;
+          grid-row-end: 3; }
+        .cont-cajas div .CajaPortafolio .cont-text-port p::-webkit-scrollbar {
+          display: none; }
+        .cont-cajas div .CajaPortafolio .cont-text-port button {
+          grid-column-start: 2;
+          grid-column-end: 3;
+          grid-row-start: 3;
+          grid-row-end: 4; }
+
+#Frontend,
+#DWeb,
+#DGrafico {
+  display: none !important; }
+
 html {
   scroll-behavior: smooth; }
 
@@ -7,13 +73,17 @@ body {
 .ColorBoton {
   background-color: #028CB2; }
 
+.ColorBoton:hover {
+  background-color: #00B0E2;
+  border: none; }
+
 .flexCenter {
   display: flex;
   justify-content: center; }
 
 header {
   width: 100%;
-  background-color: rgba(235, 235, 235, 0.705) !important;
+  background-color: rgba(235, 235, 235, 0.856) !important;
   position: fixed;
   z-index: 1; }
   header img {
@@ -161,7 +231,8 @@ header {
   width: 100%;
   background-color: #F5FAFF;
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  padding-top: 45px; }
   #AcercaDeMi div {
     margin-top: 3%;
     width: 65%;
@@ -270,8 +341,8 @@ header {
 #Habilidades {
   background-color: #DFEAF5;
   text-align: center;
-  padding-top: 3%;
-  padding-bottom: 3%; }
+  padding-bottom: 3%;
+  padding-top: 90px; }
   #Habilidades p {
     padding-left: 8%;
     padding-right: 8%;
@@ -338,7 +409,7 @@ header {
 
 #Experiencia {
   background-color: white;
-  padding-top: 50px;
+  padding-top: 80px;
   padding-bottom: 50px; }
   #Experiencia .container .titulos {
     justify-content: center;

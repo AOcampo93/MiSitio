@@ -1,7 +1,9 @@
 //Imports
+@import 'Portafolio.scss';
 //Variables
 $TituloPrincipal: 36pt;
 $ColorBoton: #028CB2;
+$colorBotonHover: #00B0E2;
 //Ajustes Generales
 html {
     //Genera un Scroll General con las anclas
@@ -16,6 +18,11 @@ body {
     background-color: $ColorBoton;
 }
 
+.ColorBoton:hover {
+    background-color: $colorBotonHover;
+    border: none;
+}
+
 .flexCenter {
     display: flex;
     justify-content: center;
@@ -24,7 +31,7 @@ body {
 //Header, Menu 
 header {
     width: 100%;
-    background-color: rgba(235, 235, 235, 0.705) !important;
+    background-color: rgba(235, 235, 235, 0.856) !important;
     position: fixed;
     z-index: 1;
     img {
@@ -223,6 +230,7 @@ header {
     background-color: #F5FAFF;
     display: flex;
     justify-content: center;
+    padding-top: 45px;
     div {
         margin-top: 3%;
         width: 65%;
@@ -363,8 +371,8 @@ header {
 #Habilidades {
     background-color: #DFEAF5;
     text-align: center;
-    padding-top: 3%;
     padding-bottom: 3%;
+    padding-top: 90px;
     p {
         padding-left: 8%;
         padding-right: 8%;
@@ -453,7 +461,7 @@ header {
 //Sección Experiencia y Educación
 #Experiencia {
     background-color: white;
-    padding-top: 50px;
+    padding-top: 80px;
     padding-bottom: 50px;
     .container {
         .titulos {

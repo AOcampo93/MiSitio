@@ -32,7 +32,7 @@
                         <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Portafolio</a>
+                        <a class="nav-link" href="portafolio.html">Portafolio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contacto</a>
@@ -66,34 +66,34 @@
     <section id="AcercaDeMi">
         <div>
             <h3>Acerca de mi</h3>
-            <p>Hola, mi nombre es Arturo Ocampo tengo 26 años y soy diseñador gráfico, web y desarrollador Front-End. Tengo experiencia en plataformas digitales, e-commerce, redes sociales, email marketing, desarrollo de aplicaciones y sitios web desde el
-                prototipo hasta el desarrollo completo. Me considero una persona emprendedora, llena de ideas, dispuesto a iniciar un nuevo proyecto. Me gusta lo que hago y me esfuerzo por darlo todo. Soy autodidacta y siempre me encuentro aprendiendo
-                algo nuevo, me encanta trabajar en equipo y pasar un buen rato conviviendo y trabajando.</p>
+            <p>Hola, mi nombre es Arturo Ocampo tengo <span id="edad"></span> años y soy diseñador gráfico, web y desarrollador Front-End. Tengo experiencia en plataformas digitales, e-commerce, redes sociales, email marketing, desarrollo de aplicaciones
+                y sitios web desde el prototipo hasta el desarrollo completo. Me considero una persona emprendedora, llena de ideas, dispuesto a iniciar un nuevo proyecto. Me gusta lo que hago y me esfuerzo por darlo todo. Soy autodidacta y siempre me
+                encuentro aprendiendo algo nuevo, me encanta trabajar en equipo y pasar un buen rato conviviendo y trabajando.</p>
         </div>
     </section>
     <div class="ContenedorCajas">
         <div class="caja" data-aos="flip-left">
-            <img src="images/img-Caja.png" alt="Desarrollo FrontEnd">
+            <img src="images/FrontEnd.png" alt="Desarrollo FrontEnd">
             <div>
                 <h6>Desarrollo FrontEnd</h6>
                 <p>Mira más de mis proyectos en desarrollo FronEnd</p>
-                <button type="button" class="ColorBoton btn btn-primary btn-lg btn-block">Ver más</button>
+                <button type="button" class="ColorBoton btn btn-primary btn-lg btn-block" onclick="portafolio(1)">Ver más</button>
             </div>
         </div>
         <div class="caja" data-aos="flip-left">
-            <img src="images/img-Caja.png" alt="Diseño Web">
+            <img src="images/WebDesign.png" alt="Diseño Web">
             <div>
                 <h6>Diseño Web</h6>
                 <p>Mira más de mis proyectos en diseño web</p>
-                <button type="button" class="ColorBoton compensador btn btn-primary btn-lg btn-block">Ver más</button>
+                <button type="button" class="ColorBoton compensador btn btn-primary btn-lg btn-block" onclick="portafolio(2)">Ver más</button>
             </div>
         </div>
         <div class="caja" data-aos="flip-left">
-            <img src="images/img-Caja.png" alt="Diseño Gráfico">
+            <img src="images/GraphicDesign.png" alt="Diseño Gráfico">
             <div>
                 <h6>Diseño Gráfico</h6>
                 <p>Mira más acerca de mis proyectos en diseño gráfico</p>
-                <button type="button" class="ColorBoton compensador btn btn-primary btn-lg btn-block">Ver más</button>
+                <button type="button" class="ColorBoton compensador btn btn-primary btn-lg btn-block" onclick="portafolio(3)">Ver más</button>
             </div>
         </div>
     </div>
@@ -103,7 +103,7 @@
                 <h3>Mis Habilidades</h3>
                 <p>En esta sección puedes mirar todas mis habilidades y el porcentaje con la que domino el tema.</p>
             </div>
-            <div class="row ContenedorHabilidades" id="ContenedorHabilidades" data-aos="zoom-out">
+            <div class="row ContenedorHabilidades" id="ContenedorHabilidades">
 
                 <!--Este HTML se ejecuta con un JSON que genera las etiquetas y rellena de información-->
                 <!-- <div class="Categoria">
@@ -184,6 +184,19 @@
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
         AOS.init();
+    </script>
+    <script>
+        var fecha = new Date();
+        var dia = fecha.getDate();
+        var mes = fecha.getMonth();
+        var year = fecha.getFullYear();
+
+        var edad = year - 1993;
+        if (mes <= 8) {
+            document.getElementById('edad').innerHTML = edad - 1;
+        } else {
+            document.getElementById('edad').innerHTML = edad;
+        }
     </script>
 
 
