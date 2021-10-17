@@ -1,0 +1,110 @@
+ [{
+         "Tipo": "Educacion",
+         "Titulo": "Certificado en Web Media ",
+         "Tiempo": "Brigham Young University - 2020",
+         "Descripcion": "Manejo de redes sociales, desarrollo frontEnd orientados al UX & UI y creación de negocios online"
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Certificado en desarrollo FrontEnd ",
+         "Tiempo": "Brigham Young University - 2020",
+         "Descripcion": "Obtuve mi primer certificado como parte de mi educación en la universidad de Brigham Young en desarrollo FrontEnd."
+     },
+     {
+         "Tipo": "Experiencia",
+         "Titulo": "Grupo Tv Promo",
+         "Puesto": "Desarrollador FrontEnd & Diseñador Web",
+         "Tiempo": "Agosto 2019 - Actualmente",
+         "Descripcion": "TVP es una agencia de medios bastante grande y diversa.  Ingrese al departamento de Marketing digital como diseñador web, mi trabajo consiste en crear sitios web y aplicaciones móviles en diferentes plataformas como Bootstrap, Angular, IONIC y Unity, diseñadas a la medida de nuestros clientes como FedEx, Bayer, La Costeña, etc."
+     },
+     {
+         "Tipo": "Experiencia",
+         "Titulo": "GetMKT (Agencia de medios B2B)",
+         "Puesto": "Desarrollador FrontEnd & Diseñador Web",
+         "Tiempo": "Junio 2019 - Agosto 2019",
+         "Descripcion": "Trabajé en este proyecto durante algunos meses diseñando la plataforma de una pequeña agencia dedicada a ayudar a otras empresas con su carga de trabajo en el área de marketing y diseño. Se diseño una interfaz pensando en la experiencia de usuario (UX & UI) El diseño de dejo listo para agregar el BackEnd necesario para el funcionamiento del sitio."
+     },
+     {
+         "Tipo": "Experiencia",
+         "Titulo": "Playerizate.com",
+         "Puesto": "Desarrollador FrontEnd & Diseñador Web",
+         "Tiempo": "Junio 2019 - Agosto 2019",
+         "Descripcion": "Fue un proyecto de negocio para iniciar una marca de playeras personalizadas, se diseño la interfaz del sitio usando conocimientos de (UX & UI) y genero una sección para personalizar tu playera desde el sitio, usando CSS, HTML5, JS para crear una interfaz interactiva con el usuario final."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Certificación en SASS",
+         "Tiempo": "SitePoint - 2019",
+         "Descripcion": "Obtuve un certificado en el curso Sass en la plataforma SitePoint como parte de mi formación en Brigham Young University (BYU)."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Certificación en CSS Selectors",
+         "Tiempo": "SitePoint - 2019",
+         "Descripcion": "Obtuve un certificado en el curso CSS Selectors en la plataforma SitePoint como parte de mi formación en Brigham Young University (BYU)."
+     },
+     {
+         "Tipo": "Experiencia",
+         "Titulo": "Paraya.com.mx",
+         "Puesto": "Diseñador web – UI & UX",
+         "Tiempo": "Septiembre 2018 - Junio 2019",
+         "Descripcion": "Este proyecto fue uno de mis favoritos, se diseño una plataforma con conocimientos en UX & UI para la reparación a domicilio de teléfonos celulares. Mi trabajo consistió en maquetar el sitio para el desarrollo de este. También material para redes sociales, emails y campañas."
+     },
+     {
+         "Tipo": "Experiencia",
+         "Titulo": "Ofi.com.mx",
+         "Puesto": "Diseñador Gráfico & Diseñador Web",
+         "Tiempo": "Noviembre 2016 - Junio 2019",
+         "Descripcion": "Ofi es un e-commerce B2B dedicada a ofrecer soluciones de hardware y software a otras empresas. Yo estuve como diseñador de planta gráfico y web desde el comienzo de la empresa en México, mi trabajo era crear material gráfico para el sitio, campañas de redes sociales, email marketing en distintas plataformas como Mailchimp y Bronto entre otras tareas como el manual de identidad corporativa de la empresa."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Brigham Young University BYU",
+         "Tiempo": "2018 - Actualmente estudiando",
+         "Descripcion": "Empecé una carrera en Brigham Young University de manera Online en el área de Diseño web & Desarrollo con énfasis en Diseño FrontEnd."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Curso de Diseño web responsivo con HTML5",
+         "Tiempo": "UNAM DGTIC 2018",
+         "Descripcion": "Obtuve un certificado por parte de DGTIC UNAM al tomar el curso de creación de paginas web con HTML5 y diseño web responsivo donde aprendí a dominar el HTML, CSS y JS."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Pathway Connect",
+         "Tiempo": "Septiembre 2016 - Septiembre 2017",
+         "Descripcion": "Curso propedéutico para iniciar la carrera en la universidad de Brigham Young Online, fue indispensable para ser aceptado en la universidad tomando varios cursos entre los años 2016 y 2017."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Curso de introducción al lenguaje de programación",
+         "Tiempo": "UNAM DGTIC 2017",
+         "Descripcion": "Obtuve un certificado por parte de DGTIC UNAM al tomar el curso de introducción al lenguaje de programación, mi primer paso del diseño gráfico al diseño web."
+     },
+     {
+         "Tipo": "Experiencia",
+         "Titulo": "SansVaz (Agencia)",
+         "Puesto": "Diseñador Gráfico",
+         "Tiempo": "Marzo 2016 - Noviembre 2016",
+         "Descripcion": "SansVaz es una pequeña agencia local dedicada a producir material gráfico a distintos negocios, mi trabajo consistió en crear diseños innovadores y atractivos con especificaciones del cliente creando impresiones en plotter a la medida."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Carrera en Diseño Gráfico en la UVM",
+         "Tiempo": "2012 - 2015",
+         "Descripcion": "Estudie en la universidad del Valle de México campus Hispano la carrera de Diseño Gráfico, desafortunadamente por temas económicos no obtuve mi titulación."
+     },
+     {
+         "Tipo": "Experiencia",
+         "Titulo": "Holdman Studios",
+         "Puesto": "Constructor de Vitralería",
+         "Tiempo": "Abril 2013 - Agosto 2013",
+         "Descripcion": "Mi primer empleo fue en una empresa creativa dedicada a la construcción de vitrales para templos SUD en diferentes partes del mundo. Mi trabajo fue elaborar los vitrales a la medida del templo de Payson Utah."
+     },
+     {
+         "Tipo": "Educacion",
+         "Titulo": "Carrera Técnica en Diseño Gráfico",
+         "Tiempo": "2009 - 2012",
+         "Descripcion": "Estudie la carrera técnica en diseño gráfico en el Bachillerato Tecnológico del Estado de México, del cual estoy titulado con cedula profesional vigente."
+     }
+ ]
