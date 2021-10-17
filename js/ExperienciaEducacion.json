@@ -1,5 +1,11 @@
  [{
          "Tipo": "Educacion",
+         "Titulo": "Certificado en Web Media ",
+         "Tiempo": "Brigham Young University - 2020",
+         "Descripcion": "Manejo de redes sociales, desarrollo frontEnd orientados al UX & UI y creación de negocios online"
+     },
+     {
+         "Tipo": "Educacion",
          "Titulo": "Certificado en desarrollo FrontEnd ",
          "Tiempo": "Brigham Young University - 2020",
          "Descripcion": "Obtuve mi primer certificado como parte de mi educación en la universidad de Brigham Young en desarrollo FrontEnd."
