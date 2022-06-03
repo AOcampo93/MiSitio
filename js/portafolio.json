@@ -1,0 +1,203 @@
+{
+    "Portafolio": [{
+            "list": "Little Caesars (Online Websites)",
+            "Title": "Promotional websites with Little Caesars",
+            "Description": "...",
+            "link": "https://littlec.com.mx/",
+            "imgPrincipalURL": "images/portfolioImg-1.png",
+            "Tools": [{
+                    "Nombre": "Bootstrap",
+                    "imgUrl": "images/tool-bootstrap.png"
+                },
+                {
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Angular",
+                    "imgUrl": "images/tool-angular.png"
+                },
+                {
+                    "Nombre": "Node Js",
+                    "imgUrl": "images/tool-node.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "PHP",
+                    "imgUrl": "images/tool-php.png"
+                },
+                {
+                    "Nombre": "MySQL",
+                    "imgUrl": "images/tool-sql.png"
+                }
+            ]
+        },
+        {
+            "list": "Jastividades Website (Demo)",
+            "Title": "Jastividades website (Demo) - with dashboard to edit the content.",
+            "Description": "...",
+            "link": "https://arturoocampo.com/jastividades/",
+            "imgPrincipalURL": "images/portfolioImg-2.png",
+            "Tools": [{
+                    "Nombre": "Bootstrap",
+                    "imgUrl": "images/tool-bootstrap.png"
+                },
+                {
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "PHP",
+                    "imgUrl": "images/tool-php.png"
+                },
+                {
+                    "Nombre": "MySQL",
+                    "imgUrl": "images/tool-sql.png"
+                }
+            ]
+        },
+        {
+            "list": "Trivia (Game)",
+            "Title": "QuizGame Trivia (Demo is only available in a mobile",
+            "Description": "...",
+            "link": "https://arturoocampo.com/proyectos/FinalProjectWebFrontEnd/index.html",
+            "imgPrincipalURL": "images/portfolioImg-3.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "JSON File",
+                    "imgUrl": "images/tool-json.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "PHP",
+                    "imgUrl": "images/tool-php.png"
+                },
+                {
+                    "Nombre": "MySQL",
+                    "imgUrl": "images/tool-sql.png"
+                }
+            ]
+        },
+        {
+            "list": "Tic-Tac-Toe (Game)",
+            "Title": "Tic-Tac-Toe (is only available on Desktop)",
+            "Description": "...",
+            "link": "https://arturoocampo.github.io/wdd330-portfolio/Tic-Tac-Toe.html",
+            "imgPrincipalURL": "images/portfolioImg-4.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                }
+            ]
+        },
+        {
+            "list": "To Do List with JS",
+            "Title": "To do list app with JS (Demo)",
+            "Description": "...",
+            "link": "https://arturoocampo.github.io/wdd330-portfolio/TodosProject/index.html",
+            "imgPrincipalURL": "images/portfolioImg-5.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                }
+            ]
+        },
+        {
+            "list": "App PWA Primaria (Demo)",
+            "Title": "Primaria PWA - Manager Content App",
+            "Description": "...",
+            "link": "https://arturoocampo.github.io/wdd330-portfolio/TodosProject/index.html",
+            "imgPrincipalURL": "images/portfolioImg-5.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                }
+            ]
+        }
+    ]
+}
