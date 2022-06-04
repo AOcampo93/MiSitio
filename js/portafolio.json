@@ -4,7 +4,7 @@
             "Title": "Promotional websites with Little Caesars",
             "Description": "...",
             "link": "https://littlec.com.mx/",
-            "imgPrincipalURL": "images/portfolioImg-1.png",
+            "imgPrincipalURL": "images/portfolioImg-0.png",
             "Tools": [{
                     "Nombre": "Bootstrap",
                     "imgUrl": "images/tool-bootstrap.png"
@@ -52,7 +52,7 @@
             "Title": "Jastividades website (Demo) - with dashboard to edit the content.",
             "Description": "...",
             "link": "https://arturoocampo.com/jastividades/",
-            "imgPrincipalURL": "images/portfolioImg-2.png",
+            "imgPrincipalURL": "images/portfolioImg-1.png",
             "Tools": [{
                     "Nombre": "Bootstrap",
                     "imgUrl": "images/tool-bootstrap.png"
@@ -92,7 +92,7 @@
             "Title": "QuizGame Trivia (Demo is only available in a mobile",
             "Description": "...",
             "link": "https://arturoocampo.com/proyectos/FinalProjectWebFrontEnd/index.html",
-            "imgPrincipalURL": "images/portfolioImg-3.png",
+            "imgPrincipalURL": "images/portfolioImg-2.png",
             "Tools": [{
                     "Nombre": "HTML 5",
                     "imgUrl": "images/tool-html.png"
@@ -132,7 +132,7 @@
             "Title": "Tic-Tac-Toe (is only available on Desktop)",
             "Description": "...",
             "link": "https://arturoocampo.github.io/wdd330-portfolio/Tic-Tac-Toe.html",
-            "imgPrincipalURL": "images/portfolioImg-4.png",
+            "imgPrincipalURL": "images/portfolioImg-3.png",
             "Tools": [{
                     "Nombre": "HTML 5",
                     "imgUrl": "images/tool-html.png"
@@ -156,7 +156,7 @@
             "Title": "To do list app with JS (Demo)",
             "Description": "...",
             "link": "https://arturoocampo.github.io/wdd330-portfolio/TodosProject/index.html",
-            "imgPrincipalURL": "images/portfolioImg-5.png",
+            "imgPrincipalURL": "images/portfolioImg-4.png",
             "Tools": [{
                     "Nombre": "HTML 5",
                     "imgUrl": "images/tool-html.png"
