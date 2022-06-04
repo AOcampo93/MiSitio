@@ -191,7 +191,7 @@
             "list": "App PWA - Primaria(Demo)",
             "Title": "App PWA Primaria - Content Manager (Open in your phone)",
             "Description": "This content manager is to optimize the communication between many people with the same responsibilities, The admin can upload information using the dashboard. He can upload new entrances with general information, and create a new appointment or event. It is easy to install on the phone because it is a PWA and doesn't require an app store for download.",
-            "link": "https://arturoocampo.github.io/wdd330-portfolio/TodosProject/index.html",
+            "link": "https://arturoocampo.com/primaria/",
             "imgPrincipalURL": "images/portfolioImg-5.png",
             "Tools": [{
                     "Nombre": "Bootstrap",
@@ -231,7 +231,7 @@
             "list": "PHP Motors Website",
             "Title": "PHP Motors Website - Great exercise using PHP",
             "Description": "PHP Motors is a great exercise, that uses PHP for managing all information in it. You can create an account with privileges, edit your information, add comments on the site, and upload and delete info on the site. This site is made with the MVC architecture to manage better the information. If you want to see the example, click on see the site.",
-            "link": "https://arturoocampo.github.io/wdd330-portfolio/TodosProject/index.html",
+            "link": "https://arturoocampo.com/phpmotors/",
             "imgPrincipalURL": "images/portfolioImg-6.png",
             "Tools": [{
                     "Nombre": "HTML 5",
