@@ -391,7 +391,7 @@
                 },
                 {
                     "Nombre": "MySQL",
-                    "imgUrl": "images/tool-mysql.png"
+                    "imgUrl": "images/tool-sql.png"
                 },
                 {
                     "Nombre": "GitHub",
@@ -463,7 +463,7 @@
                 },
                 {
                     "Nombre": "MySQL",
-                    "imgUrl": "images/tool-mysql.png"
+                    "imgUrl": "images/tool-sql.png"
                 },
                 {
                     "Nombre": "GitHub",
