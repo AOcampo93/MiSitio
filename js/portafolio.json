@@ -2,7 +2,7 @@
     "Portafolio": [{
             "list": "Little Caesars (Online Websites)",
             "Title": "Promotional websites with Little Caesars",
-            "Description": "...",
+            "Description": "I have more than 3 years of experience in a media agency in Mexico City, My work is to help big brands like Little Caesars to create promotional websites, create the mockup, design the flow of the site, and develop the site. If you want to see the sites that currently have online, please, click see the site.",
             "link": "https://littlec.com.mx/",
             "imgPrincipalURL": "images/portfolioImg-0.png",
             "Tools": [{
@@ -44,13 +44,17 @@
                 {
                     "Nombre": "MySQL",
                     "imgUrl": "images/tool-sql.png"
+                },
+                {
+                    "Nombre": "GitHub",
+                    "imgUrl": "images/tool-github.png"
                 }
             ]
         },
         {
-            "list": "Jastividades Website (Demo)",
-            "Title": "Jastividades website (Demo) - with dashboard to edit the content.",
-            "Description": "...",
+            "list": "Jastividades Blog (Demo)",
+            "Title": "Jastividades- Simple Blog with Dashboard (Demo)",
+            "Description": "This is a simple site showing some information to the users, like events in the calendar and content that the admin can upload. The admin has a dashboard where he can edit and change everything on the site, including posting new entries and events in the calendar. I'm using this template to create different sites. If you want to see the demo, click on see the site.",
             "link": "https://arturoocampo.com/jastividades/",
             "imgPrincipalURL": "images/portfolioImg-1.png",
             "Tools": [{
@@ -88,9 +92,9 @@
             ]
         },
         {
-            "list": "Trivia (Game)",
-            "Title": "QuizGame Trivia (Demo is only available in a mobile",
-            "Description": "...",
+            "list": "Trivia QuizGame",
+            "Title": "Trivia QuizGame (Is only available on mobile)",
+            "Description": "QuizGame is a simple trivia created with JavaScript and a JSON file for generating each question. It validates the question and shows the correct answer and automatically changes to the next question. It uses PHP to save the gamer's score in a database and shows in order, starting with the first place. If you want to see the game, click on see the site.",
             "link": "https://arturoocampo.com/proyectos/FinalProjectWebFrontEnd/index.html",
             "imgPrincipalURL": "images/portfolioImg-2.png",
             "Tools": [{
@@ -100,10 +104,6 @@
                 {
                     "Nombre": "CSS 3",
                     "imgUrl": "images/tool-css.png"
-                },
-                {
-                    "Nombre": "Sass",
-                    "imgUrl": "images/tool-sass.png"
                 },
                 {
                     "Nombre": "JavaScript",
@@ -124,13 +124,17 @@
                 {
                     "Nombre": "MySQL",
                     "imgUrl": "images/tool-sql.png"
+                },
+                {
+                    "Nombre": "GitHub",
+                    "imgUrl": "images/tool-github.png"
                 }
             ]
         },
         {
-            "list": "Tic-Tac-Toe (Game)",
-            "Title": "Tic-Tac-Toe (is only available on Desktop)",
-            "Description": "...",
+            "list": "Tic-Tac-Toe Game",
+            "Title": "Tic-Tac-Toe Game using JavaScript (Only Desktop)",
+            "Description": "This is a simple game that exemplifies the uses of JavaScript and its validations. The game changes the figure depending on the turn of the user (Players 1 and 2) and validates if one of the users wins. If complete a sequence of the same figure, vertical, horizontal, and diagonal. Also detects if is a tie. If you want to see the game, click on see the site.",
             "link": "https://arturoocampo.github.io/wdd330-portfolio/Tic-Tac-Toe.html",
             "imgPrincipalURL": "images/portfolioImg-3.png",
             "Tools": [{
@@ -148,13 +152,17 @@
                 {
                     "Nombre": "Adobe XD",
                     "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "GitHub",
+                    "imgUrl": "images/tool-github.png"
                 }
             ]
         },
         {
-            "list": "To Do List with JS",
-            "Title": "To do list app with JS (Demo)",
-            "Description": "...",
+            "list": "To-Do List - Task Manager",
+            "Title": "To-Do List - Task Manager with JS (Only desktop)",
+            "Description": "This is a simple task manager that works with JavaScript. It saves each task that you write and shows the list. You can filter by completed task,  active task, and all. Also, you can put a mark if you completed the task and delete it if you completed it. If you want to see the app, click on see the site.",
             "link": "https://arturoocampo.github.io/wdd330-portfolio/TodosProject/index.html",
             "imgPrincipalURL": "images/portfolioImg-4.png",
             "Tools": [{
@@ -172,15 +180,131 @@
                 {
                     "Nombre": "Adobe XD",
                     "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "GitHub",
+                    "imgUrl": "images/tool-github.png"
                 }
             ]
         },
         {
-            "list": "App PWA Primaria (Demo)",
-            "Title": "Primaria PWA - Manager Content App",
-            "Description": "...",
+            "list": "App PWA - Primaria(Demo)",
+            "Title": "App PWA Primaria - Content Manager (Open in your phone)",
+            "Description": "This content manager is to optimize the communication between many people with the same responsibilities, The admin can upload information using the dashboard. He can upload new entrances with general information, and create a new appointment or event. It is easy to install on the phone because it is a PWA and doesn't require an app store for download.",
             "link": "https://arturoocampo.github.io/wdd330-portfolio/TodosProject/index.html",
             "imgPrincipalURL": "images/portfolioImg-5.png",
+            "Tools": [{
+                    "Nombre": "Bootstrap",
+                    "imgUrl": "images/tool-bootstrap.png"
+                },
+                {
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "PHP",
+                    "imgUrl": "images/tool-php.png"
+                },
+                {
+                    "Nombre": "MySQL",
+                    "imgUrl": "images/tool-sql.png"
+                }
+            ]
+        },
+        {
+            "list": "PHP Motors Website",
+            "Title": "PHP Motors Website - Great exercise using PHP",
+            "Description": "PHP Motors is a great exercise, that uses PHP for managing all information in it. You can create an account with privileges, edit your information, add comments on the site, and upload and delete info on the site. This site is made with the MVC architecture to manage better the information. If you want to see the example, click on see the site.",
+            "link": "https://arturoocampo.github.io/wdd330-portfolio/TodosProject/index.html",
+            "imgPrincipalURL": "images/portfolioImg-6.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "PHP",
+                    "imgUrl": "images/tool-php.png"
+                },
+                {
+                    "Nombre": "MySQL",
+                    "imgUrl": "images/tool-sql.png"
+                }
+            ]
+        },
+        {
+            "list": "Study Page - Saturn V",
+            "Title": "Detalle Soberbio - Study Page (Only on mobile)",
+            "Description": "This is a simple app, that focuses on knowledge dissemination, study, and science. Teaches others about the rocket Saturn V with many elements like a dedicated website, a video about this topic, and a little game (Trivia) reviewing the things that you learned. If you want to see the app, click on see the site.",
+            "link": "https://detallesoberbio.com/saturn-v/",
+            "imgPrincipalURL": "images/portfolioImg-7.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "PHP",
+                    "imgUrl": "images/tool-php.png"
+                },
+                {
+                    "Nombre": "MySQL",
+                    "imgUrl": "images/tool-sql.png"
+                }
+            ]
+        },
+        {
+            "list": "Weather Site (API)",
+            "Title": "HelloWeather.info using an API",
+            "Description": "This is a simple app, that focuses on knowledge dissemination, study, and science. Teaches others about the rocket Saturn V with many elements like a dedicated website, a video about this topic, and a little game (Trivia) reviewing the things that you learned. It works with JavaScript and JSON files. If you want to see the site, click on see the site.",
+            "link": "https://arturoocampo.github.io/assignments/weathersite/home.html",
+            "imgPrincipalURL": "images/portfolioImg-8.png",
             "Tools": [{
                     "Nombre": "HTML 5",
                     "imgUrl": "images/tool-html.png"
@@ -196,6 +320,154 @@
                 {
                     "Nombre": "Adobe XD",
                     "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "API",
+                    "imgUrl": "images/tool-api.png"
+                },
+                {
+                    "Nombre": "JSON file",
+                    "imgUrl": "images/tool-json.png"
+                }
+            ]
+        },
+        {
+            "list": "Temple Inn & Suites",
+            "Title": "Temple Inn & Suites working with JSON files",
+            "Description": "This project is a template for the Church of Jesus Christ of the Latter Days Saints, The site shows many temples in different places around the world and their next meetings. Woks with JSON files that have the information shown to the users. It is a simple site showing the power of the JSON files.",
+            "link": "https://arturoocampo.github.io/assignments/TempleInn/Home.html",
+            "imgPrincipalURL": "images/portfolioImg-9.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "JSON file",
+                    "imgUrl": "images/tool-json.png"
+                }
+            ]
+        },
+        {
+            "list": "FedEx Promotional Site",
+            "Title": "FedEx Promotional Site using PHP",
+            "Description": "This site was created for FedEx exposing a promotion with the Europa League football, I worked with FedEx and with the media agency to create this site, designing the flow, creating the mockups, and developing the page. If you want to see the site, click on the see the site button.",
+            "link": "https://arturoocampo93.github.io/FedEx2020/",
+            "imgPrincipalURL": "images/portfolioImg-10.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "PHP",
+                    "imgUrl": "images/tool-php.png"
+                },
+                {
+                    "Nombre": "MySQL",
+                    "imgUrl": "images/tool-mysql.png"
+                },
+                {
+                    "Nombre": "GitHub",
+                    "imgUrl": "images/tool-github.png"
+                }
+            ]
+        },
+        {
+            "list": "A18 Truck Tire Service",
+            "Title": "A18 Truck Tire Service Website - Project",
+            "Description": "This was a project in the US for creating a webpage for this business. The webpage is simple, the requirement was that the clients need to call and know about the services of the business. It is a busy webpage now, many people call after looking at the page.",
+            "link": "https://a18trucktireservice.com/",
+            "imgPrincipalURL": "images/portfolioImg-11.png",
+            "Tools": [{
+                    "Nombre": "Bootstrap",
+                    "imgUrl": "images/tool-bootstrap.png"
+                },
+                {
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                }
+            ]
+        },
+        {
+            "list": "Rexal Promotional Site",
+            "Title": "Rexal Promotional Site using PHP",
+            "Description": "This site was created for Rexal exposing a promotion. I worked with Rexal and with the media agency to create this site, designing the flow, creating the mockups, and developing the page. If you want to see the site, click on the see the site button.",
+            "link": "https://arturoocampo93.github.io/rexal2020/",
+            "imgPrincipalURL": "images/portfolioImg-12.png",
+            "Tools": [{
+                    "Nombre": "HTML 5",
+                    "imgUrl": "images/tool-html.png"
+                },
+                {
+                    "Nombre": "CSS 3",
+                    "imgUrl": "images/tool-css.png"
+                },
+                {
+                    "Nombre": "Sass",
+                    "imgUrl": "images/tool-sass.png"
+                },
+                {
+                    "Nombre": "JavaScript",
+                    "imgUrl": "images/tool-js.png"
+                },
+                {
+                    "Nombre": "Adobe XD",
+                    "imgUrl": "images/tool-xd.png"
+                },
+                {
+                    "Nombre": "PHP",
+                    "imgUrl": "images/tool-php.png"
+                },
+                {
+                    "Nombre": "MySQL",
+                    "imgUrl": "images/tool-mysql.png"
+                },
+                {
+                    "Nombre": "GitHub",
+                    "imgUrl": "images/tool-github.png"
                 }
             ]
         }
