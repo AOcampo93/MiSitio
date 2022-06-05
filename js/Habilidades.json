@@ -1,6 +1,6 @@
 {
     "Habilidades": [{
-            "Categoria": "Desarrollo FrontEnd",
+            "Categoria": "Web Development",
             "Skills": [{
                     "Nombre": "HTML5",
                     "Porcentaje": "90"
@@ -10,8 +10,8 @@
                     "Porcentaje": "90"
                 },
                 {
-                    "Nombre": "SASS",
-                    "Porcentaje": "80"
+                    "Nombre": "SASS | SCSS",
+                    "Porcentaje": "90"
                 },
                 {
                     "Nombre": "JavaScript",
@@ -19,7 +19,7 @@
                 },
                 {
                     "Nombre": "PHP",
-                    "Porcentaje": "60"
+                    "Porcentaje": "80"
                 },
                 {
                     "Nombre": "Bootstrap 4",
@@ -27,7 +27,7 @@
                 },
                 {
                     "Nombre": "Google Materialize",
-                    "Porcentaje": "80"
+                    "Porcentaje": "70"
                 },
                 {
                     "Nombre": "GitHub",
@@ -38,17 +38,13 @@
                     "Porcentaje": "70"
                 },
                 {
-                    "Nombre": "IONIC | App Hibridas",
-                    "Porcentaje": "70"
-                },
-                {
                     "Nombre": "Web Progresive Apps (PWA)",
-                    "Porcentaje": "70"
+                    "Porcentaje": "80"
                 }
             ]
         },
         {
-            "Categoria": "Diseño",
+            "Categoria": "Design",
             "Skills": [{
                     "Nombre": "Photoshop",
                     "Porcentaje": "90"
@@ -70,19 +66,19 @@
                     "Porcentaje": "70"
                 },
                 {
-                    "Nombre": "Ilustración Digital",
+                    "Nombre": "Digital Illustration",
                     "Porcentaje": "80"
                 },
                 {
-                    "Nombre": "Animación 2D",
+                    "Nombre": "Animation 2D",
                     "Porcentaje": "70"
                 },
                 {
-                    "Nombre": "Modelado 3D | Blender",
+                    "Nombre": "3D Modeling | Blender",
                     "Porcentaje": "80"
                 },
                 {
-                    "Nombre": "Fotografía",
+                    "Nombre": "Photography",
                     "Porcentaje": "80"
                 },
                 {
@@ -92,29 +88,29 @@
             ]
         },
         {
-            "Categoria": "Diseño Web",
+            "Categoria": "Web Design",
             "Skills": [{
-                    "Nombre": "Adobe XD | Prototipado",
+                    "Nombre": "Adobe XD | Mockups",
                     "Porcentaje": "90"
                 },
                 {
-                    "Nombre": "Conocimiento en UX & UI",
-                    "Porcentaje": "85"
+                    "Nombre": "UX & UI Knowledge",
+                    "Porcentaje": "80"
                 },
                 {
-                    "Nombre": "Paginas web responsives",
+                    "Nombre": "Web Responsive",
                     "Porcentaje": "90"
                 },
                 {
                     "Nombre": "Email Marketing",
-                    "Porcentaje": "85"
+                    "Porcentaje": "80"
                 }
             ]
         },
         {
-            "Categoria": "Otras Habilidades",
+            "Categoria": "Other skills",
             "Skills": [{
-                    "Nombre": "Ingles",
+                    "Nombre": "English (B1)",
                     "Porcentaje": "70"
                 },
                 {
@@ -122,7 +118,7 @@
                     "Porcentaje": "90"
                 },
                 {
-                    "Nombre": "Modelado para impresión 3D",
+                    "Nombre": "Modeling for 3D printer",
                     "Porcentaje": "80"
                 },
                 {
